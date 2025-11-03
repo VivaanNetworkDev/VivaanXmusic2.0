@@ -32,6 +32,16 @@
         "value": "",
         "required": true
       },
+     "YT_API_KEY": {
+      "description": "youtube song api key, generate free key or buy paid plan",
+      "value": "",
+      "required": true
+    },
+     "YTPROXY_URL": {
+      "description": "https://tgapi.xbitcode.com",
+      "value": "",
+      "required": true
+    },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
